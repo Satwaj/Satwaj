@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satwaj%20Bachhav&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud%20%26%20AI&descAlignY=55&descSize=18" />
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
