@@ -126,33 +126,6 @@ A Perplexity-style research assistant combining LangGraph workflows, Pinecone-ba
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satwaj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwaj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwaj&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satwaj&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satwaj/Satwaj/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚙️ The snake animation needs a one-time GitHub Actions setup — see `snake-workflow-setup.md` in this download for the exact steps and the workflow file to add.
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
-
 <p align="center">
   💬 Open to full-stack, cloud, and AI-engineering roles — let's connect!
 </p>
