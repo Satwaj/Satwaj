@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Satwaj Digambar Bachhav</h1>
-<h3 align="center">Full-Stack Developer | MERN | Cloud-Native & Microservices | AI/LLM Applications</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satwaj%20Bachhav&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud%20%26%20AI&descAlignY=55&descSize=18" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+cloud+apps...;Kubernetes+%2B+Docker+%2B+Microservices;LangChain+%2B+LangGraph+%2B+Mistral+AI;Solo+builder+%7C+Debugger+of+hard+bugs" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satwaj-bachhav-50825a281/">
@@ -11,6 +16,7 @@
   <a href="https://github.com/Satwaj">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Satwaj&style=for-the-badge&color=blue&label=Profile+Views" />
 </p>
 
 ---
@@ -123,15 +129,29 @@ A Perplexity-style research assistant combining LangGraph workflows, Pinecone-ba
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satwaj&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwaj&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satwaj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwaj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwaj&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwaj&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satwaj&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satwaj/Satwaj/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚙️ The snake animation needs a one-time GitHub Actions setup — see `snake-workflow-setup.md` in this download for the exact steps and the workflow file to add.
+
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
 
 <p align="center">
   💬 Open to full-stack, cloud, and AI-engineering roles — let's connect!
